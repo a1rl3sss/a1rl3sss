@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a1rl3sss
-- 👀 I’m interested in c++, AI & machine learning, sql, cybersecurity.
+- 👀 I’m interested in c++, AI & machine learning, backend, cybersecurity.
 - ⚡ Fun fact: im 16
 
 <!---
