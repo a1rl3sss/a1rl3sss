@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @a1rl3sss
-- 👀 
-- ⚡ Fun fact: im 16
+- Hi, I’m @a1rl3sss 
+- 17 y.o gamedeveloper :/
 
 <!---
 a1rl3sss/a1rl3sss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
